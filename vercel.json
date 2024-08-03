@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://app.motivac.io/$1"
+ }
+  ]
+}
